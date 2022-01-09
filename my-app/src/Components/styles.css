@@ -1,0 +1,129 @@
+.film {
+  background-color: "black";
+  width: "20rem";
+  height: "20rem";
+  margin: "10px";
+}
+.Button {
+  background-color: white;
+}
+.Recherche{
+  color:black;
+  background-color: black;
+  
+}
+.Moviecard {
+  display: flex;
+
+  width: "20rem";
+
+  padding: "10px";
+}
+
+.custom-btn {
+  background: #fff;
+  color: red;
+  border: 2px solid red;
+  border-radius: 3px;
+  padding: 5px 10px;
+  text-transform: uppercase;
+}
+.Detail {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  padding: 30px;
+  margin-left: 100px;
+  border: 5px solid #9ec63c;
+  width: "18rem";
+  margin-top: 100px;
+}
+
+.Poster {
+  width: 380px;
+  height: 258px;
+  border: 5px solid #9ec63c;
+  row-gap: 100px;
+  margin-left: 10px;
+}
+
+.CardBody {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  padding-left: 100px;
+}
+.Home {
+  display: flex;
+  margin-left: 10px;
+  height: 430px;
+  margin-top: 70px;
+  border: white;
+  flex-wrap: nowrap;
+  align-items: baseline;
+  justify-content: space-around;
+  gap: 100px;
+}
+.Button {
+  border: rgb(231, 231, 8);
+  background-color: white;
+}
+.App {
+  display: flex;
+  flex-wrap: wrap;
+}
+.video {
+  align-self: center;
+}
+
+.paragraph {
+  font-size: medium;
+}
+.title {
+  font-size: x-large;
+}
+.anothertitle {
+  font-size: medium;
+}
+.Paragraph {
+  font-size: x-large;
+  padding: 100px;
+  padding-bottom: 280px;
+}
+.Aboutus {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.Paragraph2 {
+  padding-left: 100px;
+  padding-right: 100px;
+  font-size: xx-small;
+  padding: 100px;
+}
+.Logo {
+  height: 70px;
+  width: 64px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+.Navbar {
+  display: block;
+  padding: 0;
+  background: #9ec63c;
+  text-align: center;
+  position: fixed;
+}
+.me-auto {
+  color: white;
+}
+.Navbar {
+  width: auto;
+  height: 70px;
+}
+.App {
+  display: flex;
+  flex-wrap: wrap;
+}
